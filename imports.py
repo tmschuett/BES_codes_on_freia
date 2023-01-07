@@ -26,7 +26,7 @@ from matplotlib.gridspec import GridSpec
 import sys
 sys.path.append('/home/sfreethy/code/core_routines/data_access/equilibrium/pyEquilibrium/pyEquilibrium/')
 import equilibrium as eq
-sys.path.append('/home/lhowlett/usefulcodes/BES_analysis')
+#sys.path.append('/home/lhowlett/usefulcodes/BES_analysis')
 import spike_remover as sr
 
 udaClient = pyuda.Client()
